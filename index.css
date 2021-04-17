@@ -1,0 +1,17 @@
+h1{
+    font-family: antonio;
+    background: rgb(148, 171, 214) ;
+text-align: center;
+}
+body {
+    margin: 0 ;
+    padding: 0 ;
+    background: rgb(174, 163, 236);}
+    p{
+        text-align: center;
+    font-size: 20px; }
+    hr{height: 10px;
+        background: white;}
+        #abc{
+            text-align: center;
+        }
